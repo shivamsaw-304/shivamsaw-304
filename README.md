@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shivuu
+# 👋 Hi, I'm Shivam
 
 ### BCA Student | Aspiring Backend Developer | Entrepreneur
 
