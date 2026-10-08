@@ -10,7 +10,7 @@ I like combining **technology + business + practical problem solving** to build 
 
 ## 🚀 About Me
 
-* 🎓 Currently pursuing/completing my **BCA**
+* 🎓 Currently pursuing/completing my **MCA**
 * 💻 Learning **Java & Backend Development**
 * 🏗️ Working with a **construction/labour contracting business**
 * 📊 Interested in **business, finance, automation and technology**
