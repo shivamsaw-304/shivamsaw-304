@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shivam
 
-### BCA Student | Aspiring Backend Developer | Entrepreneur
+### MCA Student | Aspiring Backend Developer | Entrepreneur
 
 I'm a student currently building my skills in **software development, backend engineering, and problem solving**, while also managing responsibilities in the **construction business**.
 
@@ -132,18 +132,9 @@ I'm currently building projects to improve my practical skills.
 | Backend APIs                   | Java, Spring Boot | 🟡 In Progress |
 | Database Projects              | MySQL, SQL        | 🟡 In Progress |
 | Real-world Automation Projects | Java / Backend    | 🔵 Planned     |
+| CRUD - APIs                    | JS/ Java /Backend | 🟢 Learning    |
+------------------------------------------------------------------------
 
-More projects coming soon 🚀
-
----
-
-## 📊 GitHub Stats
-
-![Shivuu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🔥 My Philosophy
 
@@ -164,22 +155,6 @@ I'm always interested in connecting with people interested in:
 * Business
 * Construction Technology
 * Automation
-
-### 📫 Contact
-
-**GitHub:** [@YOUR_USERNAME]()
-
-**LinkedIn:** [Your LinkedIn]()
-
----
-
-## ⚡ Fun Fact
-
-I spend part of my time thinking about **code and backend systems**...
-
-…and another part calculating **labour, construction rates and quantities**. 😄
-
----
 
 ### ⭐ Thanks for visiting my profile!
 
